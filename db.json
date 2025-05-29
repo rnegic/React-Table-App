@@ -1,0 +1,224 @@
+{
+    "records": [
+        {
+            "id": "1",
+            "fullName": "Иванов Иван Иванович",
+            "department": "Отдел Разработки",
+            "position": "Ведущий Frontend-разработчик",
+            "email": "ivan.ivanov@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2020-01-15",
+            "officeLocation": "Москва, Офис А"
+        },
+        {
+            "id": "2",
+            "fullName": "Петрова Мария Сергеевна",
+            "department": "Отдел Маркетинга",
+            "position": "Маркетолог",
+            "email": "maria.petrova@vk.com",
+            "phone": "+79999999999",
+            "status": "В отпуске",
+            "hireDate": "2019-05-20",
+            "officeLocation": "Санкт-Петербург, Офис Б"
+        },
+        {
+            "id": "3",
+            "fullName": "Сидоров Алексей Петрович",
+            "department": "Отдел Продаж",
+            "position": "Менеджер по продажам",
+            "email": "alexey.sidorov@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2021-02-10",
+            "officeLocation": "Москва, Офис А"
+        },
+        {
+            "id": "4",
+            "fullName": "Кузнецова Ольга Владимировна",
+            "department": "Отдел HR",
+            "position": "HR-специалист",
+            "email": "olga.kuznetsova@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2022-08-01",
+            "officeLocation": "Новосибирск, Офис В"
+        },
+        {
+            "id": "5",
+            "fullName": "Васильев Дмитрий Андреевич",
+            "department": "Отдел Аналитики",
+            "position": "Аналитик данных",
+            "email": "dmitry.vasilyev@vk.com",
+            "phone": "+79999999999",
+            "status": "Больничный",
+            "hireDate": "2020-11-05",
+            "officeLocation": "Санкт-Петербург, Офис Б"
+        },
+        {
+            "id": "6",
+            "fullName": "Михайлова Елена Борисовна",
+            "department": "Отдел Дизайна",
+            "position": "UI/UX Дизайнер",
+            "email": "elena.mikhaylova@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2023-01-20",
+            "officeLocation": "Москва, Офис А"
+        },
+        {
+            "id": "7",
+            "fullName": "Новиков Сергей Игоревич",
+            "department": "Отдел Техподдержки",
+            "position": "Специалист техподдержки",
+            "email": "sergey.novikov@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2021-07-15",
+            "officeLocation": "Удаленно"
+        },
+        {
+            "id": "8",
+            "fullName": "Соколова Анна Викторовна",
+            "department": "Отдел Разработки",
+            "position": "Frontend разработчик",
+            "email": "anna.sokolova@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2022-03-10",
+            "officeLocation": "Санкт-Петербург, Офис Б"
+        },
+        {
+            "id": "9",
+            "fullName": "Лебедев Павел Дмитриевич",
+            "department": "Отдел Разработки",
+            "position": "Backend разработчик",
+            "email": "pavel.lebedev@vk.com",
+            "phone": "+79999999999",
+            "status": "В командировке",
+            "hireDate": "2019-09-01",
+            "officeLocation": "Москва, Офис А"
+        },
+        {
+            "id": "10",
+            "fullName": "Козлова Ирина Александровна",
+            "department": "Отдел Маркетинга",
+            "position": "SMM-специалист",
+            "email": "irina.kozlova@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2023-05-05",
+            "officeLocation": "Удаленно"
+        },
+        {
+            "id": "11",
+            "fullName": "Зайцев Андрей Евгеньевич",
+            "department": "Отдел Продаж",
+            "position": "Старший менеджер по продажам",
+            "email": "andrey.zaytsev@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2018-06-12",
+            "officeLocation": "Москва, Офис А"
+        },
+        {
+            "id": "12",
+            "fullName": "Волкова Екатерина Михайловна",
+            "department": "Отдел HR",
+            "position": "Рекрутер",
+            "email": "ekaterina.volkova@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2022-10-20",
+            "officeLocation": "Санкт-Петербург, Офис Б"
+        },
+        {
+            "id": "13",
+            "fullName": "Белов Максим Константинович",
+            "department": "Отдел Аналитики",
+            "position": "Старший аналитик",
+            "email": "maxim.belov@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2017-03-15",
+            "officeLocation": "Новосибирск, Офис В"
+        },
+        {
+            "id": "14",
+            "fullName": "Орлова Светлана Юрьевна",
+            "department": "Отдел Дизайна",
+            "position": "Графический дизайнер",
+            "email": "svetlana.orlova@vk.com",
+            "phone": "+79999999999",
+            "status": "В отпуске",
+            "hireDate": "2021-11-30",
+            "officeLocation": "Удаленно"
+        },
+        {
+            "id": "15",
+            "fullName": "Романов Игорь Владимирович",
+            "department": "Отдел Техподдержки",
+            "position": "Руководитель техподдержки",
+            "email": "igor.romanov@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2016-08-25",
+            "officeLocation": "Москва, Офис А"
+        },
+        {
+            "id": "16",
+            "fullName": "Смирнов Владимир Александрович",
+            "department": "Отдел Разработки",
+            "position": "Team Lead",
+            "email": "vladimir.smirnov@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2015-04-10",
+            "officeLocation": "Санкт-Петербург, Офис Б"
+        },
+        {
+            "id": "17",
+            "fullName": "Попова Анастасия Сергеевна",
+            "department": "Отдел Маркетинга",
+            "position": "Контент-менеджер",
+            "email": "anastasia.popova@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2023-02-18",
+            "officeLocation": "Удаленно"
+        },
+        {
+            "id": "18",
+            "fullName": "Федоров Кирилл Денисович",
+            "department": "Отдел Продаж",
+            "position": "Менеджер по работе с клиентами",
+            "email": "kirill.fedorov@vk.com",
+            "phone": "+79999999999",
+            "status": "Больничный",
+            "hireDate": "2020-09-03",
+            "officeLocation": "Москва, Офис А"
+        },
+        {
+            "id": "19",
+            "fullName": "Морозова Ксения Андреевна",
+            "department": "Отдел HR",
+            "position": "Менеджер по персоналу",
+            "email": "ksenia.morozova@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2021-05-12",
+            "officeLocation": "Новосибирск, Офис В"
+        },
+        {
+            "id": "20",
+            "fullName": "Егоров Артем Викторович",
+            "department": "Отдел Аналитики",
+            "position": "Младший аналитик",
+            "email": "artem.egorov@vk.com",
+            "phone": "+79999999999",
+            "status": "Активен",
+            "hireDate": "2023-07-01",
+            "officeLocation": "Санкт-Петербург, Офис Б"
+        }
+    ]
+}
