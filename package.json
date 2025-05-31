@@ -11,13 +11,7 @@
     "server": "json-server --watch db.json --port 3001 --delay 500"
   },
   "dependencies": {
-    "@emotion/react": "^11.14.0",
     "@hookform/resolvers": "^5.0.1",
-    "@mantine/core": "^8.0.2",
-    "@mantine/form": "^8.0.2",
-    "@mantine/hooks": "^8.0.2",
-    "@mantine/notifications": "^8.0.2",
-    "@tabler/icons-react": "^3.33.0",
     "@tanstack/react-table": "^8.21.3",
     "axios": "^1.9.0",
     "mobx": "^6.13.7",
@@ -25,6 +19,7 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hook-form": "^7.56.4",
+    "react-infinite-scroll-component": "^6.1.0",
     "zod": "^3.25.36"
   },
   "devDependencies": {
@@ -32,6 +27,7 @@
     "@types/node": "^22.15.23",
     "@types/react": "^19.1.6",
     "@types/react-dom": "^19.1.5",
+    "@types/react-infinite-scroll-component": "^5.0.0",
     "@vitejs/plugin-react": "^4.5.0",
     "eslint": "^9.25.0",
     "eslint-plugin-react-hooks": "^5.2.0",
