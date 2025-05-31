@@ -170,13 +170,12 @@ const CreateRecordForm = observer(() => {
                     />
                     {errors.officeLocation && <span className={styles.errorMessage}>{errors.officeLocation.message}</span>}
                 </div>
-
-                <div className={`${styles.buttonGroup} ${styles.fullWidth}`}>
-                    <button type="submit" disabled={isLoading} className={styles.submitButton}>
-                        {isLoading ? 'Добавление...' : 'Добавить запись'}
-                    </button>
-                </div>
             </form>
+            <div className={styles.buttonGroup}>
+                <button type="submit" disabled={isLoading} className={styles.submitButton}>
+                    {isLoading ? 'Добавление...' : 'Добавить запись'}
+                </button>
+            </div>
         </div>
     );
 });
