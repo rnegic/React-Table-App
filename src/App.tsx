@@ -1,9 +1,11 @@
-import './App.css'
+import './App.module.css'
+import CreateRecordForm from './components/Form/CreateRecordForm'
 
 function App() {
 
   return (
     <>
+      <CreateRecordForm />
     </>
   )
 }
