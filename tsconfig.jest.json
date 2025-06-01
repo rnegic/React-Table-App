@@ -1,0 +1,24 @@
+{
+    "extends": "./tsconfig.app.json",
+    "compilerOptions": {
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "isolatedModules": true,
+        "verbatimModuleSyntax": false,
+        "noEmit": false,
+        "tsBuildInfoFile": null,
+        "jsx": "react",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+        "src/**/*.ts",
+        "src/**/*.tsx",
+        "src/**/*.d.ts",
+        "src/**/__tests__/**/*.ts",
+        "src/**/__tests__/**/*.tsx"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
